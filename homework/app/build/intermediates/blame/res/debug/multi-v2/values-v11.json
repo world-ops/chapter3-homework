@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\18306\\git\\Homework\\homework\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\18306\\.gradle\\wrapper\\dists\\gradle-5.6.4\\caches\\transforms-2\\files-2.1\\b5fd5ba7f6da2cab1d396f63cdb4434a\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,1044",
+                        "endLines": "18,35",
+                        "endColumns": "10,10",
+                        "endOffsets": "1039,2010"
+                    }
+                }
+            ]
+        }
+    ]
+}
